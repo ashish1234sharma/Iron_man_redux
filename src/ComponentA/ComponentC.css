@@ -10,6 +10,6 @@ p{
 .text{
     margin:50px 0px 0px 340px;
     width:600px;
-    line-break:initial
+    line-break: strict;
     
 }
